@@ -10,8 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@blocksuite/blocks": "0.0.0-20230502232311-bfe52748-nightly",
+    "@blocksuite/editor": "0.0.0-20230502232311-bfe52748-nightly",
+    "@blocksuite/store": "0.0.0-20230502232311-bfe52748-nightly",
+    "@toeverything/y-indexeddb": "0.5.4-canary.20",
+    "jotai": "^2.0.4",
+    "lit": "^2.7.3",
+    "nanoid": "^4.0.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "yjs": "^13.6.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
